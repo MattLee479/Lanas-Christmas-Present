@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 
 const images = [
   {
-    url: "https://www.devere.co.uk/cotswold-water-park-hotel/spa-gym",
+    url: "https://www.devere.co.uk/sites/default/files/styles/open_graph_image/public/2022-12/CWP_GALLERY_POOL_1800x1200.jpg?h=04d2733c&itok=AiVkWfaY",
     caption: "Lovely Inside Pool"
   },
   {
@@ -85,4 +85,5 @@ const ImageGallery = ({ onContinue }: ImageGalleryProps) => {
 };
 
 export default ImageGallery;
+
 
